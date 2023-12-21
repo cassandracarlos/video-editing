@@ -1,2 +1,3 @@
-# qa-testing
-Personal notes on how to become a  Quality Assurance (QA) tester
+# Quality Assurance
+
+Personal notes on QA testing processes and careers.

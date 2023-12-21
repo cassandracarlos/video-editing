@@ -1,6 +1,7 @@
+What about physical products? (Artist Alley)
+
 QA TESTING CHECKLIST (GENERIC)
 
-/**/
 
 ** This checklist can be adapted for various software development projects, including WordPress themes and game development. **
 
@@ -106,4 +107,4 @@ USABILITY:
     * evaluate the software's ease of use for end-users
     * gather feedback on user satisfaction and experience 
 
-/**/
+*/
